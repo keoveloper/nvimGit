@@ -1,0 +1,2 @@
+pues esto es nomas para see que show with nvim ha 
+
